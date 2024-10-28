@@ -1,0 +1,10 @@
+.post-modal {
+  background-color: #7f7f7fd4;
+  width: 80%;
+  height: 100%;
+  padding: 2% 10%;
+}
+
+.ck-editor__editable {
+  color: black !important;
+}
